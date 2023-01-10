@@ -121,6 +121,52 @@ input{
 }
 
 
+/* FILMS SECTION */
+.films{
+    padding: 80px 0;
+}
+.films__title{
+    font-size: 33px;
+}
+.films .image{
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: 0.1s ease-in-out;
+}
+.films .image:hover{
+    transform: translateY(-8px);
+}
+.films .image img{
+    width: 100%;
+    cursor: pointer;
+}
+.films-slider .swiper-button-next,
+.films-slider .swiper-button-prev
+{
+    color: #fff;
+}
+/*   /FILMS SECTION */
+
+
+/* FOOTER SECTION */
+.footer{
+    position: relative;
+    background-color: #224b5f;
+    padding-top: 20px;
+    text-align: center;
+}
+.footer__text{
+    text-align: center;
+    padding: 25px 0;
+}
+.footer__text--tile{
+    color: #fff;
+    font-size: 25px;
+}
+/* /FOOTER SECTION/
+
+
 
 
 
