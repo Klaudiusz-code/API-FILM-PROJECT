@@ -88,25 +88,25 @@ input{
 .home__text{
     margin-top: 200px;
 }
-.home__text--title{
+.home__text-title{
     font-size: 45px;
     color: #fff;
     font-weight: bold;
     margin: 25px 0;
 
 }
-.home__text--description{
+.home__text-description{
     font-size: 15px;
     font-weight: 200;
     letter-spacing: 2px;
     color: #fff;
     margin: 25px 0;
 }
-.home__text__btn{
+.home__text-btn{
     margin: 25px 0;
 
 }
-.home__text__btn .bx{
+.home__text-btn .bx{
     font-size: 55px;
     color: #fff;
     border: 3px solid white;
@@ -114,7 +114,7 @@ input{
     cursor: pointer;
     transition: 0.3s ease-in-out;
 }
-.home__text__btn
+.home__text-btn
 .bx:hover{
     background: #fff;
     color: #5bb8d3;
@@ -160,7 +160,7 @@ input{
     text-align: center;
     padding: 25px 0;
 }
-.footer__text--tile{
+.footer__text-tile{
     color: #fff;
     font-size: 25px;
 }
@@ -176,10 +176,10 @@ input{
     .home__text{
         margin-top: 250px;
     }
-    .home__text--title {
+    .home__text-title {
         font-size: 40px;
     }
-    .home__text--description {
+    .home__text-description {
         font-size: 13px;
     }
 }
